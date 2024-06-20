@@ -1,7 +1,5 @@
 package DesafioiphoneDio;
 
-import AparelhoTelefonico.AparelhoTelefonico;
-
 public class Iphone implements Navegador, AparelhoTelefonico, ReprodutorMusical {
     @Override
     public void ligar() {

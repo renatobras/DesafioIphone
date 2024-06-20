@@ -1,4 +1,4 @@
-package AparelhoTelefonico;
+package DesafioiphoneDio;
 
 public interface AparelhoTelefonico {
     public void ligar();
